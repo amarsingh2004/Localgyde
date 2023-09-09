@@ -197,13 +197,16 @@
     width: 25%;
 }
 .ab1{
-    font-size: 25px;
+    font-size: 23px;
     margin-top: 35%;
+}
+.bc{
+    margin-left:-8%;
 }
 .ad{
     font-size: 10px;
     margin: 1.5%;
-    margin-top: 14%;
+    margin-top: 13%;
 }
 .final{
     width: 75%;
