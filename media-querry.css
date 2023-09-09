@@ -1,0 +1,224 @@
+@media (max-width:768px) and (min-width : 426px){
+.aa{
+    width: 60%;
+    
+}
+.slogan{
+    width: 40%;
+}
+.hdr{
+    display: flex;
+    font-size: 12px;
+}
+.a{
+    margin-top: 0.5%;
+    font-size: 1.5rem;
+    margin-left: 10%;
+}
+.img1{
+    position:absolute;
+    object-fit: cover;
+    width:100%;
+    height:500px
+    /* z-index: -5; */
+ }
+ .b1{
+    margin-top: 2%;
+ }
+.b{
+        margin-left: 30%;
+        margin-top: 2%;
+    }
+.btn1{
+        margin-left: 5%;
+        margin-top: 2%;
+        width: 10%;  
+} 
+.header-text{
+    margin-top: 25px;
+    display: flex;
+    font-size: 5px
+    
+} 
+.slogan1{
+    margin-top: 30%;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.text{
+    margin-top: 40%;
+    margin-left: 1%;
+    font-size: 12px;
+}
+.dropdown{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    width: 70%;
+}
+.inp{
+    height: 30px;
+    font-size: 15px;
+}
+/* BENEFITS */
+.heading-benefits{
+    font-size: 30px;
+    margin-left: 10%;
+}
+.box{
+    width: 60%;
+    height: 250px;
+}
+.text2{
+    font-size: 20px;
+}
+/* LOGIN */
+.book{
+    margin-left: 22%;
+}
+.sub-book{
+    font-size: 17px;
+    margin-left: 22%;
+}
+.num0{
+    height: 35px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.download{
+    margin-left: 33.5%;
+}
+.gp{
+    height: 40px
+}
+/* FOOTER */
+.ab1{
+    font-size: 40px;
+}
+.logo1{
+    height: 50%;
+    width: 80%;
+    margin-left: 40px;
+}
+
+.logo4{
+    width: 30%;
+}
+.ad{
+    font-size: 12px;
+    margin-left: 8%;
+}
+.copyright{
+    font-size: 10px;
+    margin-top: 40px;
+}
+}
+@media (max-width:425px){
+.z{
+    margin-right: -10%;
+}       
+.hdr{
+    width: 100%;
+    font-size: 11px;
+    display: flex;
+   align-items: center;
+}
+.a{
+    font-size: 30px;
+    margin-top: -2%;
+} 
+.aa{
+    width: 0%;
+    height: 0%;
+} 
+.b{
+    margin-left: 7%;
+}
+.b1{
+    margin-left: 3%;
+}
+.btn1{
+    margin-left: 2.5%;
+}
+.slogan{
+    width: 100%;
+    height: 500.5px;
+}  
+.text{
+    margin-left: 7%;
+    font-size: 16px;
+}
+.h-b{
+    font-size: 23px;
+    margin-left: -35%;
+}
+.text2{
+    font-size: 15px;
+}
+.benefits-box{
+    display: flex;
+    flex-direction: column;
+}
+.box{
+   width: 70%;
+   margin-left: 17%;
+   height: 150px;
+}
+.f2{
+    display: flex;
+    width: 90%;
+    margin-left: 10%;
+}
+.s2{
+    display: flex;
+    width: 90%;
+    margin-left: 13%;
+}
+.book{
+    margin-left: 10%;
+    font-size: 23px;
+}
+.sub-book{
+    margin-left: 18px;
+    font-size: 15px;
+}
+.num0{
+    width: 70%;
+    margin-left: 55px;
+}
+.download{
+    margin-left: 20%;
+}
+.gp{
+    width: 40%;
+}
+/* FOOTER */
+.ab{
+    width: 25%;
+}
+.ab1{
+    font-size: 25px;
+    margin-top: 35%;
+}
+.ad{
+    font-size: 10px;
+    margin: 1.5%;
+    margin-top: 14%;
+}
+.final{
+    width: 75%;
+}
+.ae{
+    width: 25%;
+}
+.logo1{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    margin-left: 75%;
+    margin-top: 85%;
+}
+.copyright{
+    font-size: 10px;
+}
+}
