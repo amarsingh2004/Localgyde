@@ -68,7 +68,7 @@ body{
 }
 .slogan1{
     margin-top: 15%;
-    margin-left: 10%;
+    margin-left: 5%;
     font-size: 32px;
     color: #22266d;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, "Helvetica Neue", Oxygen-Sans, Ubuntu, Cantarell, Helvetica, Arial, sans-serif !important;
@@ -79,12 +79,18 @@ body{
     height: 500px;
     width: 40%;
     background-color:white;
-    
-    }
+}
+.slogan2{
+    font-size: 15px;
+    margin-top: -3%;
+    margin-left: -3%;
+    color: #5628b5;;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, "Helvetica Neue", Oxygen-Sans, Ubuntu, Cantarell, Helvetica, Arial, sans-serif !important;
+}
 .text{
     font-size: 16px;
     margin-top: 20%;
-    margin-left: 8%;
+    margin-left: 6%;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, "Helvetica Neue", Oxygen-Sans, Ubuntu, Cantarell, Helvetica, Arial, sans-serif !important;
 
 }    

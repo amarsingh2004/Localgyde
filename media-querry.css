@@ -45,6 +45,10 @@
     margin-left: 10px;
     font-size: 25px;
 }
+.slogan2{
+    font-size: 11px;
+    margin-left: 0.7%;
+}
 .text{
     margin-top: 40%;
     margin-left: 1%;
@@ -143,7 +147,14 @@
 .slogan{
     width: 100%;
     height: 500.5px;
-}  
+} 
+.slogan2{
+    font-size: 13px;
+    margin-left: 25px;
+} 
+.dropdown{
+    margin-left: 11%;
+}
 .text{
     margin-left: 7%;
     font-size: 16px;
